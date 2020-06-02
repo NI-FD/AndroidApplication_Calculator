@@ -18,5 +18,7 @@
 - Select an emulator (Pixel 2 with Android 9 is work).
 - Build and run.
 
+![image](IMG/Content.png)
+
 ## REFERENCE
 - UI Layout: https://www.jianshu.com/p/0872deeada30
